@@ -1,3 +1,4 @@
 # first_AIML
-First attempt at using GitHub (rditing)
+First attempt at using GHUB
 Adding a line
+Adding one more
